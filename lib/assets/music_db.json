@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Relax",
+    "category": "relax",
+    "image": "https://media.wnyc.org/i/1400/1400/l/80/1/ScienceFriday_WNYCStudios_1400.jpg",
+    "musics": {
+      "title": "A Salute To Head-Scratching Science",
+      "url": "https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3"
+    }
+  },
+  {
+    "title": "Calm",
+    "category": "calm",
+    "image": "https://media.wnyc.org/i/1400/1400/l/80/1/ScienceFriday_WNYCStudios_1400.jpg",
+    "musics": {
+      "title": "A Salute To Head-Scratching Science",
+      "url": "https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3"
+    }
+  }
+]
